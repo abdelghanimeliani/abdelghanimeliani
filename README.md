@@ -12,6 +12,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play/watch footall and netflix series
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghanimeliani&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
