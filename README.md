@@ -7,10 +7,10 @@
 
 ## I'm a Student and Developer 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning node js & docker🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play/watch footall and netflix series
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play/watch footall 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghanimeliani&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
