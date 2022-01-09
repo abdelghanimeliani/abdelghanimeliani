@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to play/watch footall 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghanimeliani&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelghanimeliani)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
