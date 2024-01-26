@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning kubernetes🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play/watch footall 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghanimeliani&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
