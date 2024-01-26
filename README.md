@@ -1,11 +1,10 @@
 
 ### Hi there, I'm MELIANI Abdelghani 
-#### this is my instagram account
-[abdelghani.meliani][instagram] 👋
+
 #### this is my twitter account
 [![Twitter Follow](https://img.shields.io/twitter/follow/abd_el_ghani__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abd_el_ghani__)
 
-## I'm a Student and Developer 
+## I'm a Phd Student and a developer 
 
 - 🌱 I’m currently learning kubernetes🤣
 - 👯 I’m looking to collaborate with other content creators
