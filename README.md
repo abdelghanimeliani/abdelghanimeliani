@@ -6,7 +6,7 @@
 
 ## I'm a Phd Student and a developer 
 
-- 🌱 I’m currently learning kubernetes🤣
+- 🌱 I’m currently trying to pass the CKA exam
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play/watch footall 
