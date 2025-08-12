@@ -23,7 +23,7 @@ I'm a PhD student, software engineer, and passionate **Kubestronaut** — always
 ## 🌐 Connect with me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abd_el_ghani__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abd_el_ghani__)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-meliani/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meliani-abd-elghani/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdelghanimeliani)  
 [![Credly](https://img.shields.io/badge/-Credly-2BA6DA?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abd-elghani-meliani)
 
