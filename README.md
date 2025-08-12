@@ -1,79 +1,59 @@
+# Hi, I'm Abdelghani MELIANI 👋
 
-### Hi there, I'm MELIANI Abdelghani 
+I'm a PhD student, software engineer, and passionate **Kubestronaut** — always eager to explore new technologies and contribute to impactful projects.
 
-#### this is my twitter account
-[![Twitter Follow](https://img.shields.io/twitter/follow/abd_el_ghani__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abd_el_ghani__)
+---
 
-## I'm a Phd Student and a developer 
+## 🚀 About Me
 
-- 🌱 I’m currently trying to pass the CKS exam
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play/watch footall 
+- 🎓 Currently pursuing my PhD while diving deep into software engineering research.
+- ☸️ A proud **[Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=fr&p=meliani-abdelghani)**: Kubernetes is my playground.
+- 🎯 Preparing for the Certified Kubernetes Security Specialist (CKS) exam.
+- 🤝 Open to collaboration on open source projects and tech content creation.
+- ⚽ A football fan who loves both playing and watching the beautiful game.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghanimeliani&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 📊 GitHub Stats
 
-### Connect with me:
+![Abdelghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghanimeliani&theme=radical&count_private=true)
 
+---
 
-[<img align="left" alt="abdelghanimeliani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+## 🌐 Connect with me
 
-[<img align="left" alt="abdelghanimeliani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter Follow](https://img.shields.io/twitter/follow/abd_el_ghani__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abd_el_ghani__)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-meliani/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdelghanimeliani)  
+[![Credly](https://img.shields.io/badge/-Credly-2BA6DA?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abd-elghani-meliani)
 
-<br />
+---
 
-### Languages and Tools:
+## 💻 Tech Stack & Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<!--
-Write your comments here 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
--->
-
-
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
-<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-
-<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 <br />
 <br />
 
+---
 
+## 📚 What I'm working on
 
+- Advanced Kubernetes orchestration and security techniques.
+- Research projects combining cloud, edge computing, and orchestration.
+- Open source contributions in cloud-native and infrastructure projects.
 
+---
 
+Thanks for stopping by! Feel free to reach out or explore my repos.
 
-[twitter]: https://twitter.com/abd_el_ghani__
-[instagram]: https://instagram.com/abdelghani.meliani
-
-
-
-
+---
